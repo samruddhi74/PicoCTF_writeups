@@ -9,7 +9,9 @@ Directly look into the content of the file
 
 ## **Approach:**
 Copy the link address and get the file using the wget command 
-wget https://mercury.picoctf.net/static/704f877da185904ec3992e7255a15c6c/flag
+```bash
+wget https://mercury.picoctf.net/static/704f877da185904ec3992e7255a15c6c/flag```
 To see the contents of file use 'cat' command ( prints files) 
-```cat flag```
+```bash
+cat flag
 Hurray! you got the flag
