@@ -10,10 +10,8 @@ Directly look into the content of the file
 ## **Approach:**
 To download the file using the `wget` command, run:
 
-```bash
-wget https://mercury.picoctf.net/static/704f877da185904ec3992e7255a15c6c/flag```
+```wget https://mercury.picoctf.net/static/704f877da185904ec3992e7255a15c6c/flag```
 
 To see the contents of the file, use the cat command:
 
-```bash
-cat flag```
+```cat flag```
